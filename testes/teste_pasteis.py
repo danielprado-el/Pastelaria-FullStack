@@ -2,7 +2,6 @@ import unittest
 import urllib.request
 import json
 
-URL_LIKES = "http://likes:5000/likes_por_feed/"
 URL_PASTEIS = "http://localhost:5001/pasteis"
 URL_PASTEL = "http://localhost:5001/pastel"
 
